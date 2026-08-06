@@ -20,7 +20,7 @@ Nothing more is stored. No appointment details, no customer data, no transaction
 
 Availability data is trapped in proprietary booking platforms (10--30% commissions, vertical lock-in) or private calendar silos. Driving instructors sit idle between lessons. Wedding venues stand empty on dates couples would have booked. The information exists --- it is invisible.
 
-Calendar interoperability standards (iCalendar, CalDAV, VFREEBUSY) handle availability exchange between known parties. What they do not provide is a way for strangers to search for available resources across providers, categories, and geographies.
+Calendar interoperability standards (iCalendar, CalDAV, VFREEBUSY) handle availability exchange between known parties. What they do not provide is a way for strangers to search for available resources across providers, categories, and geographies. The closest live system — Reserve with Google — aggregates bookable availability across a few verticals, but it is partner-gated, booking-mediated, place-centric, and controlled by a single company. No *open* availability index exists.
 
 ## Design Principles
 
@@ -31,11 +31,11 @@ Calendar interoperability standards (iCalendar, CalDAV, VFREEBUSY) handle availa
 
 ## Status
 
-This is a concept paper (v2.0), not a specification. It describes design principles, surveys prior art, proposes a bootstrapping strategy (the embeddable availability widget), and enumerates open design questions. A technical specification would be a separate deliverable if the concept attracts contributors.
+This is a concept paper (v2.1), not a specification. It describes design principles, surveys prior art, proposes a bootstrapping strategy (the embeddable availability widget), and enumerates open design questions. A technical specification would be a separate deliverable if the concept attracts contributors.
 
 ## Documentation
 
-See [`MyTime_WhitePaper_v2.0.pdf`](MyTime_WhitePaper_v2.0.pdf) for the full concept paper.
+See [`MyTime_WhitePaper_v2.1.pdf`](MyTime_WhitePaper_v2.1.pdf) for the full concept paper.
 
 ## Call for Contributors
 
